@@ -8,10 +8,10 @@
 
 ---
 
-## Sobre o projeto
+## 💻 Sobre o projeto
+ Este projeto foi desenvolvido com base no curso **_Desenvolvimento Android e IOS com Flutter 2022 -Crie 15 Apps_** da [Udemy](https://www.udemy.com/).
  Este é um projeto para estudo, uma simples aplicação que informa ao usuário o que está mais barato, o álcool ou a gasolina. 
- 
- O usuário poderá informar os dados nos campos dos formulários, e através de calculos o aplicativo informa qual o melhor combustivel para o usuário comprar, na presente situação.
+ O usuário poderá informar os dados nos campos dos formulários, e através de calculos, o aplicativo informa qual o melhor combustivel para o usuário comprar, na presente situação.
  
  ### 🛠 Tecnologias
  
